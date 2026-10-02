@@ -4,16 +4,13 @@ Classes Data
 Branches Data
 Students Data
 
-<<<<<<< HEAD
 
 NIE College
 1980
 Mysore
 
-=======
 NIE College
 1985
 Mysore
->>>>>>> college-merge
 
 Details of Colleges
