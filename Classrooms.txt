@@ -4,3 +4,6 @@ Classes Data
 Branches Data
 Students Data
 
+NIE College
+1990
+Mysore
