@@ -4,11 +4,8 @@ Classes Data
 Branches Data
 Students Data
 
-<<<<<<< HEAD
 NIE College
-1990
+1985
 Mysore
-=======
 
 Details of Colleges
->>>>>>> 381e079 (Added college details with one more update)
